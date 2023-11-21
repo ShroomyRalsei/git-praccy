@@ -1,3 +1,3 @@
-learning a few extra things about git lol lmao
+learning a few extra things about git lol
 
-test
+test 3
