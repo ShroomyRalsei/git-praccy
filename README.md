@@ -1,2 +1,3 @@
 # git-praccy
-learning a few extra things about git lol cringe
+learning a few extra things about git lol
+stupid
